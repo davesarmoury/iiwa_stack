@@ -7,7 +7,6 @@ services:
 
 env:
   matrix:
-    - ROS_DISTRO=kinetic
     - ROS_DISTRO=melodic
 
 script:
